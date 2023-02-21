@@ -1,0 +1,35 @@
+#wrapper {
+    background-color: pink;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+#movieNames {
+    padding-top: 5px;
+}
+
+#movieInfo {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#links {
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#inputBox {
+    display: flex;
+    flex-direction: column;
+    
+}
